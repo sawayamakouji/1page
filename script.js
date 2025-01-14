@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const floatingCircle = document.createElement('div');
   floatingCircle.className = 'floating-circle';
   floatingCircle.innerHTML = `
-    <a href="https://twitter.com/your_profile" target="_blank" rel="noopener noreferrer"></a>
+    <a href="https://ai-one-six.vercel.app/services" target="_blank" rel="noopener noreferrer"></a>
   `;
   document.body.appendChild(floatingCircle);
 
