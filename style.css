@@ -60,7 +60,7 @@ main {
   animation-delay: 1s;
 }
 
-.quote-content p:nth-child(4) {
+.quote-content p:nth-child(5) {
   animation: fadeInBlink 3s ease-in-out infinite 2s;
   font-size: 2rem;
   margin-top: 2rem;
